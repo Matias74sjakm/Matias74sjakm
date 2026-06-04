@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy josue fernando
 
-<!--
-**Matias74sjakm/Matias74sjakm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy estudiante de software. Me interesa la tecnología y estoy empezando en el mundo del desarrollo de software. Me interesa crear soluciones que sean útiles y fáciles de usar para las personas.
 
-Here are some ideas to get you started:
+## Lo que estoy aprendiendo
+- **Frontend**: HTML, CSS, JavaScript, DOM
+- **Frameworks**: Bootstrap, Diseño responsive  
+- **Herramientas**: Git y GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyecto actual
+Estoy aprendiendo a publicar páginas web utilizando GitHub Pages. Mi objetivo es subir mis primeros proyectos y que queden visibles en internet.
+
+## Meta técnica
+Mi meta es crear sitios web funcionales, organizados y adaptables a diferentes dispositivos. Quiero aprender en  el desarrollo web para poder trabajar en proyectos reales a futuro.
